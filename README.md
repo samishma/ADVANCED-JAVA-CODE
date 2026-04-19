@@ -30,3 +30,6 @@ https://github.com/samishma/ADVANCED-JAVA-CODE/blob/5e2f20e181cb5a1625fb06446619
 
 lab 1c 4.PositionList o/p:
 https://github.com/samishma/ADVANCED-JAVA-CODE/blob/efad3c6fefdac04c926f72166046ac2569913a59/PositionList.png
+
+lab 1c 5.SwapElement o/p:
+https://github.com/samishma/ADVANCED-JAVA-CODE/blob/ea642eb2905980b75471fdb27fba18299377b4ef/SwapElement.png
