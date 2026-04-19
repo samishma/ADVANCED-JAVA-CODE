@@ -43,3 +43,6 @@ https://github.com/samishma/ADVANCED-JAVA-CODE/blob/a2a2cc6cc372946730a7c7167425
 lab 3a 1.StringOperationsDemo o/p:
 https://github.com/samishma/ADVANCED-JAVA-CODE/blob/089dccb7666e82d59e75b965308c1b26fd11053e/StringOperatorDemo1.png
 https://github.com/samishma/ADVANCED-JAVA-CODE/blob/826a79390d301fadd94014f6c9560038e506adb7/StringOperatorDemo2.png
+
+lab 3b 1.NullOrEmptyCheck o/p:
+https://github.com/samishma/ADVANCED-JAVA-CODE/blob/c7dffa6da7520c12e28d62fce256badb5aeb80a7/NullOrEmptyCheck.png
