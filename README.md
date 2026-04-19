@@ -49,3 +49,6 @@ https://github.com/samishma/ADVANCED-JAVA-CODE/blob/c7dffa6da7520c12e28d62fce256
 
 lab 3b 2.SubstringCount o/p:
 https://github.com/samishma/ADVANCED-JAVA-CODE/blob/c8e478243cb80f18044559606f6b7bcf395ad45c/SubstringCount.png
+
+lab 3b 3.ReverseStringDemo o/p:
+https://github.com/samishma/ADVANCED-JAVA-CODE/blob/296d0e2a432ef8f697300a38de8219fa9b5bf7c1/ReverseStringDemo.png
