@@ -15,3 +15,6 @@ https://github.com/samishma/ADVANCED-JAVA-CODE/blob/a55a776421738aa5a4700d6da99f
 lab1b 4.Sublist o/p:
 https://github.com/samishma/ADVANCED-JAVA-
 CODE/blob/a0f77c67f06590af06d4cd4ecd7d65688496e188/Sublist.png
+
+lab1b 5.Remove_By_Index o/p:
+https://github.com/samishma/ADVANCED-JAVA-CODE/blob/8d42d75fbf4d478e9c9db1d9e912d8fc21e8a010/Remove_By_Index.png
