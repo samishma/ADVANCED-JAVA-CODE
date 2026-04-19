@@ -37,5 +37,5 @@ lab 2a 1.stringHandlingDemo o/p:
 https://github.com/samishma/ADVANCED-JAVA-CODE/blob/2dc6d3fe53825155c208f07357f78670c07a79e5/stringHandlingDemo1.png
 https://github.com/samishma/ADVANCED-JAVA-CODE/blob/c11bad5f395b3833567f234339518bb300903130/stringHandlingDemo2.png
 
-lab 2b 1.stringHandlingDemo o/p:
+lab 2b 1.PerformaceTest o/p:
 https://github.com/samishma/ADVANCED-JAVA-CODE/blob/a2a2cc6cc372946730a7c7167425da83f05dd230/performanceTest.png
