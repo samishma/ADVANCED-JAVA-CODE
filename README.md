@@ -33,3 +33,6 @@ https://github.com/samishma/ADVANCED-JAVA-CODE/blob/efad3c6fefdac04c926f72166046
 
 lab 1c 5.SwapElement o/p:
 https://github.com/samishma/ADVANCED-JAVA-CODE/blob/ea642eb2905980b75471fdb27fba18299377b4ef/SwapElement.png
+
+lab 2a 1 stringHandlingDemo o/p:
+https://github.com/samishma/ADVANCED-JAVA-CODE/blob/2dc6d3fe53825155c208f07357f78670c07a79e5/stringHandlingDemo1.png
