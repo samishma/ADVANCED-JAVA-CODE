@@ -39,3 +39,6 @@ https://github.com/samishma/ADVANCED-JAVA-CODE/blob/c11bad5f395b3833567f23433951
 
 lab 2b 1.PerformaceTest o/p:
 https://github.com/samishma/ADVANCED-JAVA-CODE/blob/a2a2cc6cc372946730a7c7167425da83f05dd230/performanceTest.png
+
+lab 3a 1.StringOperationsDemo o/p:
+https://github.com/samishma/ADVANCED-JAVA-CODE/blob/089dccb7666e82d59e75b965308c1b26fd11053e/StringOperatorDemo1.png
