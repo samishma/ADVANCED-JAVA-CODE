@@ -11,3 +11,7 @@ https://github.com/samishma/ADVANCED-JAVA-CODE/blob/10bb785ebe9f8c1f0edea8548e22
 
 lab1b 3.SortArraylist o/p :
 https://github.com/samishma/ADVANCED-JAVA-CODE/blob/a55a776421738aa5a4700d6da99f5f4c51a4faac/SortArraylist.png
+
+lab1b 4.Sublist o/p:
+https://github.com/samishma/ADVANCED-JAVA-
+CODE/blob/a0f77c67f06590af06d4cd4ecd7d65688496e188/Sublist.png
