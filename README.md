@@ -27,3 +27,6 @@ https://github.com/samishma/ADVANCED-JAVA-CODE/blob/59bae7f36504bcd55cec0a094e22
 
 lab 1c 3.L_listobj o/p:
 https://github.com/samishma/ADVANCED-JAVA-CODE/blob/5e2f20e181cb5a1625fb06446619c26dd90069ad/L_listobj.png
+
+lab 1c 4.PositionList o/p:
+https://github.com/samishma/ADVANCED-JAVA-CODE/blob/efad3c6fefdac04c926f72166046ac2569913a59/PositionList.png
