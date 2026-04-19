@@ -36,3 +36,4 @@ https://github.com/samishma/ADVANCED-JAVA-CODE/blob/ea642eb2905980b75471fdb27fba
 
 lab 2a 1 stringHandlingDemo o/p:
 https://github.com/samishma/ADVANCED-JAVA-CODE/blob/2dc6d3fe53825155c208f07357f78670c07a79e5/stringHandlingDemo1.png
+https://github.com/samishma/ADVANCED-JAVA-CODE/blob/c11bad5f395b3833567f234339518bb300903130/stringHandlingDemo2.png
