@@ -24,3 +24,6 @@ https://github.com/samishma/ADVANCED-JAVA-CODE/blob/2052ecf5751c1b789a1fa85722dd
 
 lab 1c 2.DesendingIterator o/p:
 https://github.com/samishma/ADVANCED-JAVA-CODE/blob/59bae7f36504bcd55cec0a094e228b3c52d73522/DesendingIterator.png
+
+lab 1c 3.L_listobj o/p:
+https://github.com/samishma/ADVANCED-JAVA-CODE/blob/5e2f20e181cb5a1625fb06446619c26dd90069ad/L_listobj.png
