@@ -46,3 +46,6 @@ https://github.com/samishma/ADVANCED-JAVA-CODE/blob/826a79390d301fadd94014f6c956
 
 lab 3b 1.NullOrEmptyCheck o/p:
 https://github.com/samishma/ADVANCED-JAVA-CODE/blob/c7dffa6da7520c12e28d62fce256badb5aeb80a7/NullOrEmptyCheck.png
+
+lab 3b 2.SubstringCount o/p:
+https://github.com/samishma/ADVANCED-JAVA-CODE/blob/c8e478243cb80f18044559606f6b7bcf395ad45c/SubstringCount.png
