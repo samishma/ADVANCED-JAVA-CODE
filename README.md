@@ -82,3 +82,6 @@ https://github.com/samishma/ADVANCED-JAVA-CODE/blob/34bb17f834cf6baed2dea6a260bc
 
 lab 4c 1.ClockButtonExample o/p :
 https://github.com/samishma/ADVANCED-JAVA-CODE/blob/5ccbbae5f44067e91ef1e1a631a014472af97886/ClockButtonExample.png
+
+lab 5a 1.JListExample o/p :
+https://github.com/samishma/ADVANCED-JAVA-CODE/blob/561d5b4f5c75dcfd2bb40008fb0432e1ade05dd9/JListExample.png
