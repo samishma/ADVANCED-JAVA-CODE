@@ -58,3 +58,6 @@ https://github.com/samishma/ADVANCED-JAVA-CODE/blob/0b03bb2c870542d66a9d3224f548
 
 lab 3c 6.CapitalizeWordsDemo o/p:
 https://github.com/samishma/ADVANCED-JAVA-CODE/blob/aed7a067d51ea7f38dc9b3cc0895c61503656c5c/CapitalizeWordsDemo.png
+
+lab 3c 7.TruncateStringDemo o/p :
+https://github.com/samishma/ADVANCED-JAVA-CODE/blob/2e769919585a92f2eb28cff4fea24fdb6efcb038/TruncateStringDemo.png
