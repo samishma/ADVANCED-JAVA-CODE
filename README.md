@@ -53,6 +53,9 @@ https://github.com/samishma/ADVANCED-JAVA-CODE/blob/c8e478243cb80f18044559606f6b
 lab 3b 3.ReverseStringDemo o/p:
 https://github.com/samishma/ADVANCED-JAVA-CODE/blob/296d0e2a432ef8f697300a38de8219fa9b5bf7c1/ReverseStringDemo.png
 
+lab 3b 4.PalindromeCheck o/p:
+https://github.com/samishma/ADVANCED-JAVA-CODE/blob/49f7a1ad0f2063e1c207251e554e6ec6c44f8e81/PalindromeCheck.png
+
 lab 3b 5.RemoveWhitespaceDemo o/p:
 https://github.com/samishma/ADVANCED-JAVA-CODE/blob/0b03bb2c870542d66a9d3224f54862ae98c4e946/RemoveWhitespaceDemo.png
 
