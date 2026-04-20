@@ -73,3 +73,6 @@ https://github.com/samishma/ADVANCED-JAVA-CODE/blob/abd66e5aae27b750a1cf6617c638
 
 lab 3c 10.WordCountDemo o/p :
 https://github.com/samishma/ADVANCED-JAVA-CODE/blob/1be1b25f10aa508a89830c09bdcb9a028caa7eaf/WordCountDemo.png
+
+lab 4a 1.SwingExample o/p :
+https://github.com/samishma/ADVANCED-JAVA-CODE/blob/5d38dd58337458b411b1615c407b504136ca461f/SwingExample.png
