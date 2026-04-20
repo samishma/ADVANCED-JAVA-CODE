@@ -70,3 +70,6 @@ https://github.com/samishma/ADVANCED-JAVA-CODE/blob/2abf5a2eed86f8aefdd81567e230
 
 lab 3c 9.RandomStringDemo o/p :
 https://github.com/samishma/ADVANCED-JAVA-CODE/blob/abd66e5aae27b750a1cf6617c638e75285f6025a/RandomStringDemo.png
+
+lab 3c 10.WordCountDemo o/p :
+https://github.com/samishma/ADVANCED-JAVA-CODE/blob/1be1b25f10aa508a89830c09bdcb9a028caa7eaf/WordCountDemo.png
