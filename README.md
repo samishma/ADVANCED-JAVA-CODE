@@ -91,3 +91,6 @@ https://github.com/samishma/ADVANCED-JAVA-CODE/blob/c00af1aed6072701b750da05b44f
 
 lab 5c 1.JListExampleCapital o/p :
 https://github.com/samishma/ADVANCED-JAVA-CODE/blob/ada291c262e71c5cdb3920b77b3a39f43eb1bb8a/JListExampleCapital.png
+
+lab 5d 1.TabbedExample o/p :
+https://github.com/samishma/ADVANCED-JAVA-CODE/blob/deda04c41c5593a3510a4b0d04459eac6444c75b/TabbedExample.png
