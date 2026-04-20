@@ -67,3 +67,6 @@ https://github.com/samishma/ADVANCED-JAVA-CODE/blob/2e769919585a92f2eb28cff4fea2
 
 lab 3c 8.NumericCheckDemo o/p :
 https://github.com/samishma/ADVANCED-JAVA-CODE/blob/2abf5a2eed86f8aefdd81567e2308ea19de9d976/NumericCheckDemo.png
+
+lab 3c 9.RandomStringDemo o/p :
+https://github.com/samishma/ADVANCED-JAVA-CODE/blob/abd66e5aae27b750a1cf6617c638e75285f6025a/RandomStringDemo.png
