@@ -77,5 +77,8 @@ https://github.com/samishma/ADVANCED-JAVA-CODE/blob/1be1b25f10aa508a89830c09bdcb
 lab 4a 1.SwingExample o/p :
 https://github.com/samishma/ADVANCED-JAVA-CODE/blob/5d38dd58337458b411b1615c407b504136ca461f/SwingExample.png
 
-lab 4b 1.ButtonExample.o/p :
+lab 4b 1.ButtonExample o/p :
 https://github.com/samishma/ADVANCED-JAVA-CODE/blob/34bb17f834cf6baed2dea6a260bc175aaa00b7b1/ButtonExample.png
+
+lab 4c 1.ClockButtonExample o/p :
+https://github.com/samishma/ADVANCED-JAVA-CODE/blob/5ccbbae5f44067e91ef1e1a631a014472af97886/ClockButtonExample.png
