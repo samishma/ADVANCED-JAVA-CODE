@@ -61,3 +61,6 @@ https://github.com/samishma/ADVANCED-JAVA-CODE/blob/aed7a067d51ea7f38dc9b3cc0895
 
 lab 3c 7.TruncateStringDemo o/p :
 https://github.com/samishma/ADVANCED-JAVA-CODE/blob/2e769919585a92f2eb28cff4fea24fdb6efcb038/TruncateStringDemo.png
+
+lab 3c 8.NumericCheckDemo o/p :
+https://github.com/samishma/ADVANCED-JAVA-CODE/blob/2abf5a2eed86f8aefdd81567e2308ea19de9d976/NumericCheckDemo.png
