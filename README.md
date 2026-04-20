@@ -55,3 +55,6 @@ https://github.com/samishma/ADVANCED-JAVA-CODE/blob/296d0e2a432ef8f697300a38de82
 
 lab 3b 5.RemoveWhitespaceDemo o/p:
 https://github.com/samishma/ADVANCED-JAVA-CODE/blob/0b03bb2c870542d66a9d3224f54862ae98c4e946/RemoveWhitespaceDemo.png
+
+lab 3c 6.CapitalizeWordsDemo o/p:
+https://github.com/samishma/ADVANCED-JAVA-CODE/blob/aed7a067d51ea7f38dc9b3cc0895c61503656c5c/CapitalizeWordsDemo.png
