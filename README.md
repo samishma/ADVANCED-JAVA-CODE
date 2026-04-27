@@ -8,3 +8,5 @@ https://github.com/samishma/ADVANCED-JAVA-CODE/blob/54f5177cecb3cbf8142d7bb2f9f3
 https://github.com/samishma/ADVANCED-JAVA-CODE/blob/f8c93013c8e775cbec7e39d22d234085fc8992b5/Product%20Management%20System4.png
 
 https://github.com/samishma/ADVANCED-JAVA-CODE/blob/e77e045adda50001db055b76519aaa905fbb6f61/Product%20Management%20System5.png
+
+https://github.com/samishma/ADVANCED-JAVA-CODE/blob/1dcfac3e09598105b13ca4f43d8acb686a8790c2/Product%20Management%20System6.png
